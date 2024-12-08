@@ -1,6 +1,6 @@
 import {useState} from "react"
 
-const Two = () => {
+const TwoState = () => {
 
     const [state,setState] = useState('');
 
@@ -16,4 +16,4 @@ const Two = () => {
     )
 }
 
-export default Two
+export default TwoState
